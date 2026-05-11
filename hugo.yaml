@@ -1,4 +1,4 @@
-baseURL: "https://example.com/"  # 修改为你的域名，本地调试可先保留默认
+baseURL: "https://rosewwwfr.pages.dev/"  # 修改为你的域名，本地调试可先保留默认
 languageCode: "zh-cn"            # 语言代码
 theme: "hugo-theme-stack"        # 主题名称，必须与 themes 目录下的文件夹名一致
 title: "Rose's Blog"            # 站点标题 (浏览器标签页显示)
